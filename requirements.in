@@ -1,0 +1,10 @@
+jupyter-contrib-nbextensions==0.5.1
+jupyterlab==2.0.1
+nb-black==1.0.7
+nbinteract==0.2.5
+pandas==1.0.3
+Pillow==7.0.0
+pip-tools==4.5.1
+scipy==1.4.1
+seaborn==0.10.0
+treon==0.1.3
