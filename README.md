@@ -51,4 +51,8 @@ python -m ipykernel install --user --name numberphile --display-name "Python (nu
 # Install Jupyter extensions JS/CSS & enable required extensions
 jupyter contrib nbextension install
 jupyter nbextension enable toc2/main
+
+# Initialise nbinteract & create .html
+nbinteract init
+nbinteract notebooks/The_Coronavirus_Curve.ipynb
 ```
